@@ -1,0 +1,27 @@
+{
+    "posts": [
+      {
+        "id": 0,
+        "title": "json-server",
+        "author": "typicode"
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    },
+    "recipes": [
+      {
+        "id": 2,
+        "title": "Big Mac",
+        "ingredients": "Burger patties, sesame seed buns, lettuce, cheese, pickles, onions, special sauce",
+        "instructions": "1. Grill the burger patties. 2. Toast the buns. 3. Assemble the burger with lettuce, cheese, pickles, onions, and special sauce."
+      }
+    ]
+  }
